@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Messenger</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_signed_up">Already Signed Up?</string>
+    <string name="sign_up_with_phone">Sign Up with Phone</string>
+    <string name="log_in">Log In</string>
+    <string name="not_a_current_user">New User?</string>
+    <string name="setting">Setting</string>
+    <string name="logout">Logout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Will Update Soon</string>
+    <string name="type_a_message">Type a message</string>
+</resources>

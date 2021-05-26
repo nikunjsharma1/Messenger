@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "421488260485",
+    "project_id": "messenger-b73e2",
+    "storage_bucket": "messenger-b73e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421488260485:android:a5130a71dc840a665d80ec",
+        "android_client_info": {
+          "package_name": "com.nikunj.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421488260485-m482r6obk0ct16tcjotnp96vqds779e8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nikunj.messenger",
+            "certificate_hash": "f1e5399a98e094992f3081a5aa7a3fe5fa97fb0d"
+          }
+        },
+        {
+          "client_id": "421488260485-p355og7n39ieavg59uqeb59f09pff6fn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_4OAoQh2mhB_K1_GBIDcXsPqwfyzcqkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421488260485-p355og7n39ieavg59uqeb59f09pff6fn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
