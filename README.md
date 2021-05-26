@@ -7,4 +7,4 @@ and Group chat also.
 I am sharing few screen shot of my application
 
 # ScreenShots
-<img src="screenshots" width="48">
+<img src="Screenshot_20210526-191733_Messenger.jpg" width="100"> <img src="Screenshot_20210526-193432_Messenger.jpg" width="100"> <img src="Screenshot_20210526-193443_Messenger.jpg" width="100"> <img src="Screenshot_20210526-193458_Messenger.jpg" width="100"> <img src="ws.png" width="100"> 
